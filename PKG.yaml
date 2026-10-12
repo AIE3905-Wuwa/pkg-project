@@ -10,3 +10,6 @@ uninstall:
   credentials: []
   bridges: []
   processes: []
+disclosure: "No network access; manages project workspaces under projects/ (full agent read/write inside each container); privacy depends on project content — it never enters the framework repo."
+menu:
+  project: project container domain — workspaces under projects/ + declaration page
